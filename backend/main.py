@@ -51,5 +51,5 @@ app.include_router(auth_router)
 @app.get("/")
 def home():
     return {
-        "message": "GlobalBrief Backend Running"
+        "message": "Backend Version 2"
     }
