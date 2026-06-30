@@ -247,23 +247,22 @@ DELETE /bookmark
 
 # 📷 Screenshots
 
-```
-Home Page
 
-![Home](image.png)
+## 📷 Screenshots
 
+### Home Page
 
+![Home](Screenshots/homePage.png)
 
+### AI Features
 
-AI Features
-![AI-Features](image-1.png)
+![AI Features](Screenshots/AI-Features.png)
 
-AI Content
-![Content1](image-2.png)
-![Content2](image-3.png)
+### AI Content
 
+![Content 1](Screenshots/AI-Content1.png)
 
-```
+![Content 2](Screenshots/AI-Content2.png)
 
 ---
 
