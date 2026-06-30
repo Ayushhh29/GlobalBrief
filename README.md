@@ -250,14 +250,19 @@ DELETE /bookmark
 ```
 Home Page
 
+![Home](image.png)
 
-Search
 
-Bookmarks
 
-AI Summary
 
-Daily Digest
+AI Features
+![AI-Features](image-1.png)
+
+AI Content
+![Content1](image-2.png)
+![Content2](image-3.png)
+
+
 ```
 
 ---
